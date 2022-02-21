@@ -1,4 +1,6 @@
 # COE241-Project
+Automated Traffic Light Signal using a Microcontroller
+
 This repository is built to store and share the code and files for our COE241: Microcontrollers course. In this project, we have developed an automated traffic light system using a microcontroller, on the MPLAB X IDE, in C language. In this course, we have used the micro-controller PIC24FJ128GA010.
 
 Design a traffic lights junction connected to Port A LED’s that operates based on two modes controlled by PortD Push buttons. 
